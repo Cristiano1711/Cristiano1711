@@ -5,12 +5,12 @@
 
 ## 👨‍💻 Sobre mim
 
-
 - 🎓 Estudante de Engenharia de Software — UFAM
-- 📍  Manaus, AM — Brasil
+- 📍 Manaus, AM — Brasil
 - 🌱 Focado em arquitetura de software e código limpo
 - 🧠 Gosto bastante de banco de dados e automações
-- 🚀 Buscando aprender mais sobre Inteligência Artificial e LLM's
+- 🚀 Buscando aprender mais sobre Inteligência Artificial e LLMs
+
 ---
 
 ### Frontend & Backend:
@@ -18,28 +18,30 @@
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### Banco de dados: 
+### Banco de dados:
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
+  <img width="12"/>
 </div>
 
 ### Ferramentas:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="40" alt="ubuntu logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img width="12" />
-
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/>
+  <img width="12"/>
 </div>
+
+---
 
 ## 🚀 Projetos em Destaque
 
@@ -56,14 +58,16 @@
 
 ---
 
-### 🌐 [Portfólio Pessoal](https://github.com/Cristiano1711/portfolio)
+### 🎫 [SGIR — Sistema de Gestão de Incidentes e Requisições](https://github.com/Cristiano1711/Sistema-de-Gestao-de-Incidentes-e-Requisicoes-SGIR-)
 
-> Meu primeiro portfólio desenvolvido com HTML e CSS puro
+> Gerenciador de tickets de suporte técnico full-stack com ciclo de vida completo de chamados
 
-- Interface responsiva construída do zero, sem frameworks
-- Demonstração de domínio de fundamentos web
+- **Arquitetura MVC** com Flask, rotas RESTful e gerenciamento de estado (Aberto → Em Andamento → Fechado)
+- **Persistência híbrida**: MySQL relacional para dados estruturados + JSON nativo para histórico de comentários
+- **Front-end** responsivo, CSS Grid e Flexbox — zero dependência de frameworks externos
+- Lógica de ownership: técnicos assumem chamados e o dashboard reflete as transições em tempo real
 
-`HTML` `CSS`
+`Python` `Flask` `MySQL` `HTML` `CSS`
 
 ---
 
@@ -75,16 +79,17 @@
 </p>
 
 ---
+
 ## 📫 Contatos
 
-<div alinhar="esquerda">
-  <um href="mailto:criscardosocavalcante@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="logotipo do Gmail" />
-  </um>
-  <um href="https://github.com/Cristiano1711">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="logotipo do GitHub" />
-  </um>
-  <um href="https://www.linkedin.com/in/cristiano-cardoso-102806368/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logotipo do LinkedIn" />
-  </um>
+<div align="left">
+  <a href="mailto:criscardosocavalcante@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/cristiano-cardoso-cavalcante-lima" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Cristiano1711" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </div>
