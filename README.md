@@ -86,7 +86,7 @@
   <a href="mailto:criscardosocavalcante@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/cristiano-cardoso-cavalcante-lima" target="_blank">
+  <a href="https://www.linkedin.com/in/cristiano-cardoso-102806368" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Cristiano1711" target="_blank">
