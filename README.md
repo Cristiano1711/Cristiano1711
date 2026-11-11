@@ -7,7 +7,7 @@
 
 - 🎓 Estudante de Engenharia de Software — UFAM
 - 📍 Manaus, AM — Brasil
-- 💼 Tecnologia no **Impact Hub Manaus** — desenvolvo os sistemas internos: gestão de cobrança, reservas de coworking, portal do colaborador e hub de gestão
+- 💼 Tecnologia no **Impact Hub Manaus** — desenvolvo os sistemas internos
 - 🌱 Focado em arquitetura de software e código limpo
 - 🧠 Gosto bastante de banco de dados e automações
 - 🚀 Buscando aprender mais sobre Inteligência Artificial e LLMs
